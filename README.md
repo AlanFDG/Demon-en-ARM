@@ -1,4 +1,4 @@
-# Creacion de un demon en ARM
+# ✨ Creacion de un demon en ARM ✨
 Pasos a segir para crear el demon de forma remota:
 
 1. Es logiarnos a nuestra cuenta que tengamos en una raspbery o en el S.O. que esta especializado en ello.
@@ -33,3 +33,4 @@ as -o index.o index.s
 lb -o index index.o
 ```
 7. La salida del resultado en este caso seria "Hola Mundo". 
+👍
